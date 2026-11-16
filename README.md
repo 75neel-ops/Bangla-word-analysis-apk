@@ -51,4 +51,3 @@ Root-এর index.html পুরোনো static preview হিসেবে র�
 অ্যাপটি Google Interactions API-তে gemini-3.8-flash ও Google Search grounding ব্যবহার করে। ব্যুৎপত্তি বা ভাষাতাত্ত্বিক বিশ্লেষণ প্রকাশের আগে সূত্রে যাচাই করুন.
 
 Created & Maintained by NilanjanC
-
